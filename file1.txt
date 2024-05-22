@@ -1,1 +1,2 @@
-Info about cats
+Info about cats:
+- They are cute
