@@ -1,1 +1,2 @@
-Info about dogs
+Info about dogs:
+- They love to play
