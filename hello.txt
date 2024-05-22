@@ -1,2 +1,3 @@
 Hello, Git!
 Test line is added
+Anoter line had been added
